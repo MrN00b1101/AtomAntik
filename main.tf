@@ -1,3 +1,4 @@
-output "test" {
-  value = "test"
+variable "file_count" {
+  type = number
+default = 3
 }
