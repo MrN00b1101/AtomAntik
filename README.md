@@ -19,5 +19,7 @@ In the following, we shed light on a technology that not only **automates soluti
 - We provide guidance on their usage through the links which you can **find in the header**.
 - We recommend progressing further according to the diagram, which you can find **below** the introduction.
 - If you're stuck in the middle of the lecture, just take your time and read it once again. Practice makes perfect!
-***  
+***
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/Hollsz-patch-1/documentation/roadmap.png" alt="roadmap diagram" style="height: 100px; width:100%;"/>
+
 <img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
