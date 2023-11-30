@@ -16,7 +16,6 @@ GitHub Pull Requests (PRs) provide a way for developers to propose changes to a 
 1.  **Fork the Repository (Optional):**
     
     -   If you don't have write access to the repository, you can fork it to your own GitHub account. This creates a copy of the repository under your account where you can make changes.
-
 2.  **Create a Branch:**
     
     -   Create a new branch in the repository to isolate your changes. It's a good practice to create a branch for each feature or bug fix.
@@ -46,3 +45,12 @@ GitHub Pull Requests (PRs) provide a way for developers to propose changes to a 
 10.  **Merge the Pull Request:**
 11. 
     -   Once the PR has been approved and passes any required checks, you can merge it into the target branch.
+12.  **Delete Branch (Optional):**
+    
+        -   After the PR is merged, you can choose to delete the branch if it's no longer needed.
+
+GitHub provides a collaborative environment for code review and discussion during the PR process. The mechanism ensures that proposed changes are well-reviewed, tested, and integrated into the codebase in a controlled manner. It's a crucial part of the Git workflow for distributed development teams and open-source projects.
+
+
+***  
+<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
