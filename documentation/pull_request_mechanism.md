@@ -43,10 +43,10 @@ GitHub Pull Requests (PRs) provide a way for developers to propose changes to a 
     
     -   Make any necessary changes based on the feedback received during the review process. You can push additional commits to the same branch, and the PR will automatically update.
 10.  **Merge the Pull Request:**
- 
-    -   Once the PR has been approved and passes any required checks, you can merge it into the target branch.
-11.  **Delete Branch (Optional):**
     
+        -   Once the PR has been approved and passes any required checks, you can merge it into the target branch.
+12.  **Delete Branch (Optional):**
+
         -   After the PR is merged, you can choose to delete the branch if it's no longer needed.
 
 GitHub provides a collaborative environment for code review and discussion during the PR process. The mechanism ensures that proposed changes are well-reviewed, tested, and integrated into the codebase in a controlled manner. It's a crucial part of the Git workflow for distributed development teams and open-source projects.
