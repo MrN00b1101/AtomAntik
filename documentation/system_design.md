@@ -9,6 +9,8 @@
   | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/Hollsz-patch-2/documentation/roadmap_sysdesign.png" alt="design roadmap" style="height: 400px; width:50%;" align="right"/>
+
 #   System design
   
 GitHub Actions is a platform for automating workflows, including continuous integration (CI) and continuous deployment (CD). It allows you to define custom workflows using YAML syntax, and these workflows can be triggered by various events, such as pushes to a repository, pull requests, or the creation of tags.
