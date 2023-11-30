@@ -82,15 +82,17 @@ Create deployment scripts if necessary. For example, in `scripts/deploy.sh`:
 # Replace this with your actual deployment steps
 echo "Deploying the application..."` 
 ```
-### 4. Secrets and Environment Variables:
+### 4. Sensitive informations and Environment Variables:
 
 For sensitive information like API keys or credentials, use GitHub Secrets or other CI/CD tools' equivalent mechanisms to securely store and inject these values into your workflow.
 
 ### 5. Execution:
 
-Push your changes to the `main` branch, and the GitHub Actions workflow will be triggered automatically. Check the GitHub Actions tab for the progress and results.
+Push your changes to the main branch, and the GitHub Actions workflow will be triggered automatically. Navigate to the GitHub Actions tab to monitor the progress and view the results.
 
-This is a basic example, and real-world scenarios may involve more advanced features such as conditional steps, multiple environments, integration testing, and more. Customize the workflow to fit your specific requirements and best practices.
+This example provides a foundational understanding, but real-world scenarios often entail more sophisticated features, such as conditional steps, multiple environments, and comprehensive integration testing. It's recommended to tailor the workflow to align with your specific project requirements and adhere to best practices in software development.
+
+Feel free to explore and incorporate advanced configurations based on your needs. The GitHub Actions platform offers flexibility, allowing you to create workflows that seamlessly integrate with your development process, ensuring efficiency and reliability throughout your project's lifecycle.
 
 ***  
 <img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
