@@ -12,3 +12,7 @@
 
 #   Pull request mechanism
 GitHub Pull Requests (PRs) provide a way for developers to propose changes to a repository. Here's a general overview of how the GitHub Pull Request mechanism works:
+
+1.  **Fork the Repository (Optional):**
+    
+    -   If you don't have write access to the repository, you can fork it to your own GitHub account. This creates a copy of the repository under your account where you can make changes.
