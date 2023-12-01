@@ -40,7 +40,7 @@ For this small project we only using 2 Labels (For now)
 1. [AFP-Documentation](https://github.com/users/MrN00b1101/projects/1/views/1)
 2. [AFP-Terraform code](https://github.com/users/MrN00b1101/projects/4)
 
-The **_Documentatin_** and **_Terraform code_** projects helps us follow and track the progress of the issues and tasks. For this we also using the basic features GitHub provides. 
+The **_Documentation_** and **_Terraform code_** projects helps us follow and track the progress of the issues and tasks. For this we also using the basic features GitHub provides. 
 
 These are following statuses:
 + Todo
