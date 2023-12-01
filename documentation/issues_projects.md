@@ -1,4 +1,4 @@
-This section is about the issues and projects we are using for this Terraform project.
+**This section is about the _issues and projects_ we are using for this Terraform project.**
 
 1. Create documentation documentation
 2. Make a "System Design" site for the documentation documentation
