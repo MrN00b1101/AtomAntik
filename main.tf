@@ -9,11 +9,11 @@ variable "file_name" {
 locals {
   file_content_template = "This is file number %d."
 }
-resource "local_file" "first_file" {
+resource "local_file" "first_file_1" {
   content = "AtomAntik"
-  filename = "../first_file.txt"
+  filename = "../first_file_1.txt"
 }
-resource "local_file" "count_file" {
+resource "local_file" "count_file_1" {
   count = var.file_count
   content    = format(local.file_content_template, count.index + 1)
   filename   = "file_${count.index + 1}.txt"
