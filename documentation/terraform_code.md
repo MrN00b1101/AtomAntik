@@ -6,7 +6,7 @@
   | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
   | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
   | Pipeline workflow
-  | [Pull request approval workflow](https://github.com/MrN00b1101/AAtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
+  | [Pull request approval workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
 #   Terraform code
