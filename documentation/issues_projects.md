@@ -30,10 +30,26 @@
 
 We are using these issues to track our progress and to communicate with the team using features like Assignees, Labels, Milestones and Comments.
 
+For this small project we only using 2 Labels (For now)
++ Enhancement
++ Documentation
+
+
 
 ### Projects
 1. [AFP-Documentation](https://github.com/users/MrN00b1101/projects/1/views/1)
 2. [AFP-Terraform code](https://github.com/users/MrN00b1101/projects/4)
+
+The **_Documentatin_** and **_Terraform code_** projects helps us follow and track the progress of the issues and tasks. For this we also using the basic features GitHub provides. 
+
+These are following statuses:
++ Todo
++ In Progress
++ Done
+
+We found out these are just enough for us to work on this small project.
+It helps us see visually where are the issues stands and what we need to do and where we need to provide help to other team members.
+These GitHub projects are easy to use with the Drag-and-Drop feature or just select the status of the issue on the issue page itself.
 
 
 
