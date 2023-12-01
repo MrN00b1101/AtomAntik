@@ -1,4 +1,4 @@
-<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/pngwing.com.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
   System design
   | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
