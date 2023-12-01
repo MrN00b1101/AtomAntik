@@ -1,12 +1,12 @@
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/pngwing.com.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/system_designe.md)
-  | [Pull request mechanism](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_mechanism.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
   | Issues/projects
-  | [Terraform code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/terraform_code.md)
-  | [Test code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/test_code.md)
-  | [Pipeline workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pipeline_workflow.md)
-  | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
+  | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
+  | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
+  | [Pipeline workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pipeline_workflow.md)
+  | [Pull request approval workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
 ## **This section is about the _issues and projects_ we are using for this Terraform project.**
@@ -55,4 +55,5 @@ Example for Terraform code project page:
 ![Terraform code page example](https://i.ibb.co/hd1FRgT/AFP-projects.png)
 
 
+<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
 

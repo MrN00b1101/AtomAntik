@@ -1,12 +1,12 @@
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/system_designe.md)
-  | [Pull request mechanism](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_mechanism.md)
-  | [Issues/projects](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/issues_projects.md)
-  | [Terraform code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/terraform_code.md)
-  | [Test code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/test_code.md)
-  | Pipeline workflow
-  | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
+  | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
+  | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
+  | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
+  | [Pipeline workflow]([https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pipeline_workflow.md)
+  | [Pull request approval workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 #   Pull request approval workflow
 
@@ -97,4 +97,4 @@ Once the required approvals and status checks are met, the "Merge pull request" 
 
 This workflow helps ensure that code changes are reviewed, tested, and approved before being merged, contributing to a more reliable and maintainable codebase. Adjust the specific settings and checks based on your team's needs and coding standards.
 ***  
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>

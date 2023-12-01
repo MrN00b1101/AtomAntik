@@ -1,12 +1,12 @@
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/system_designe.md)
-  | [Pull request mechanism](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_mechanism.md)
-  | [Issues/projects](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/issues_projects.md)
-  | [Terraform code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/terraform_code.md)
-  | [Test code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/test_code.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
+  | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
+  | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
+  | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
   | Pipeline workflow
-  | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
+  | [Pull request approval workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
 #   Pipeline workflow
@@ -95,4 +95,4 @@ This example provides a foundational understanding, but real-world scenarios oft
 Feel free to explore and incorporate advanced configurations based on your needs. The GitHub Actions platform offers flexibility, allowing you to create workflows that seamlessly integrate with your development process, ensuring efficiency and reliability throughout your project's lifecycle.
 
 ***  
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
