@@ -1,12 +1,12 @@
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/system_designe.md)
-  | [Pull request mechanism](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_mechanism.md)
-  | [Issues/projects](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/issues_projects.md)
-  | [Terraform code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/terraform_code.md)
-  | [Test code](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/test_code.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
+  | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
+  | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
+  | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
   | Pipeline workflow
-  | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
+  | [Pull request approval workflow](https://github.com/MrN00b1101/AAtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
 #   Terraform code
@@ -62,4 +62,4 @@ The second set of files are generated dynamically. The number of files created i
 - `file_2.txt` : `This is file number 2.`
 - `file_3.txt` : `This is file number 3.`
 ***  
-<img src="https://github.com/MrN00b1101/AATeszt/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
