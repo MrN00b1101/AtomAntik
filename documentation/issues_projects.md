@@ -32,3 +32,8 @@ We are using these issues to track our progress and to communicate with the team
 
 
 ### Projects
+1. [AFP-Documentation](https://github.com/users/MrN00b1101/projects/1/views/1)
+2. [AFP-Terraform code](https://github.com/users/MrN00b1101/projects/4)
+
+
+
