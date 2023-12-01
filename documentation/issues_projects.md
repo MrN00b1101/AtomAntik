@@ -47,7 +47,7 @@ These are following statuses:
 + In Progress
 + Done
 
-We found out these are just enough for us to work on this small project.
+We found out these are just enough for us to work efficiantly on this small project.
 It helps us see visually where are the issues stands and what we need to do and where we need to provide help to other team members.
 These GitHub projects are easy to use with the Drag-and-Drop feature or just select the status of the issue on the issue page itself.
 
