@@ -1,7 +1,7 @@
 
 <img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_design.md)
   | Pull request mechanism
   | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
   | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
