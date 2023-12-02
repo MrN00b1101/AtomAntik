@@ -11,7 +11,7 @@ locals {
 }
 resource "local_file" "first_file_1" {
   content = "AtomAntik"
-  filename = "../first_file_1.txt"
+  filename = "first_file_1.txt"
 }
 resource "local_file" "count_file_1" {
   count = var.file_count
@@ -21,5 +21,10 @@ resource "local_file" "count_file_1" {
 
 resource "local_file" "first_file" {
   content = "This is my text"
-  filename = "./first_file.txt"
+  filename = "first_file.txt"
+}
+
+resource "local_file" "variable_file" {
+  content = "This is my text"
+  filename = format("%s/%s",var.file_name,".txt")
 }
