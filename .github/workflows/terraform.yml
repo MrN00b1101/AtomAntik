@@ -93,4 +93,5 @@ jobs:
       run: terraform apply -auto-approve -input=false
 
     - name: Validate
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
       run: sudo chmod +x validate.sh ; sudo ./validate.sh
