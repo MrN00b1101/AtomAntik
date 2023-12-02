@@ -19,7 +19,3 @@ resource "local_file" "count_file_1" {
   filename   = "file_${count.index + 1}.txt"
 }
 
-resource "local_file" "first_file" {
-  content = "This is my text"
-  filename = "./first_file.txt"
-}
