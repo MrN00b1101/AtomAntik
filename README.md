@@ -1,6 +1,6 @@
 <img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_header.png" alt="Team logo" style="height: 300px; width:100%;"/>
   
-  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_designe.md)
+  [System design](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/system_design.md)
   | [Pull request mechanism](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_mechanism.md)
   | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
   | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
@@ -20,6 +20,6 @@ In the following, we shed light on a technology that not only **automates soluti
 - We recommend progressing further according to the diagram, which you can find **below** the introduction.
 - If you're stuck in the middle of the lecture, just take your time and read it once again. Practice makes perfect!
 ***
-<img src="https://github.com/MrN00b1101/AtomAntik/blob/Hollsz-patch-1/documentation/roadmap.png" alt="roadmap diagram" style="height: 100px; width:100%;"/>
+<img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/roadmap.png" alt="roadmap diagram" style="height: 100px; width:100%;"/>
 
 <img src="https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/atom_antik_footer.png" alt="Team logo" style="height: 300px; width:100%;"/>
