@@ -42,7 +42,7 @@ resource "local_file" "count_file_1" {
 -   `file_content_template` : string local variable, that is used to generate the content of the created files with "_This is file number %d._" where `%d` is a placeholder for a numeric value.
 
 ### 3. Resources:
--   `"local_file" "first_file_1"` : Defines a local file resource named "first_file_1".
+-   `"local_file" "first_file_1"` : Defines a local file resource named "_first_file_1_".
     
     -   **`content = "AtomAntik"` : sets the content of the file as "AtomAntik".**
     -   **`filename = "../first_file_1.txt""` : specifies the path to the file that will be created (if missing parent directories will be created). If the file already exists, it will be          overridden with the given content.**
