@@ -5,7 +5,7 @@
   | [Issues/projects](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/issues_projects.md)
   | [Terraform code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/terraform_code.md)
   | [Test code](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/test_code.md)
-  | Pipeline workflow
+  | [Pipeline workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pipeline_workflow.md)
   | [Pull request approval workflow](https://github.com/MrN00b1101/AtomAntik/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
 
