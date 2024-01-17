@@ -54,7 +54,7 @@ resource "local_file" "count_file_1" {
     -   **`filename = "file_${count.index + 1}.txt"` : Dinamically generates file names using their indexes. The file names will be in "_file_1.txt_", "_file_2.txt_", etc. format.**
 
 ## Mechanism:
-The terraform code in `main.tf` creates local files. At first it creates a file named "_first_file_1.txt_" that has a fixed content which is "AtomAntik".
+The terraform code in `main.tf` creates local files. At first it creates a file named "_first_file_1.txt_" that has a fixed content which is "_AtomAntik_".
 - `first_file_1.txt` : `AtomAntik`
 
 The second set of files are generated dynamically. The number of files created is detrimed by the value of `file_count` variable, 3 in this instance. The file names and the content of the files are incremented with their indexes.
