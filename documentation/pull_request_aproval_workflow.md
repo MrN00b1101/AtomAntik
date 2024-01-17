@@ -89,7 +89,7 @@ jobs:
 ```
 ### 4. Pull Request Approval:
 
-When contributors create a pull request, they won't be able to merge it until the required number of approving reviews and status checks have passed. Reviewers can comment on the code changes and approve the pull request.
+If and when contributors create a pull request, they won't be able to merge it until the required number of approving reviews and status checks have passed. Reviewers can comment on the code changes and approve the pull request. If the required checks are not passed, the reviewers will notify the the contributor that there is more work to be done.
 
 ### 5. Merge:
 
