@@ -50,7 +50,7 @@ resource "local_file" "count_file_1" {
 -   `"local_file" "count_file_1"` : Defines a local file resource named "_first_file_1_".
     
     -   **`count = var.file_count` : Determines how many times the resource will be instantiated (the number is the value stored in `file_count` ).**
-    -   **`content = format(local.file_content_template, count.index + 1)` : Dinamically generates formatted content for each file. Incorporates the local variable `file_content_template`          and increments the index. The file contents will be in "This is file number 1.", "This is file number 2.", etc. format.**
+    -   **`content = format(local.file_content_template, count.index + 1)` : Dinamically generates formatted content for each file. Incorporates the local variable `file_content_template`          and increments the index. The file contents will be in "_This is file number 1._", "_This is file number 2._", etc. format.**
     -   **`filename = "file_${count.index + 1}.txt"` : Dinamically generates file names using their indexes. The file names will be in "_file_1.txt_", "file_2.txt", etc. format.**
 
 ## Mechanism:
