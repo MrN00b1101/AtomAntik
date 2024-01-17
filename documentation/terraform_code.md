@@ -36,7 +36,7 @@ resource "local_file" "count_file_1" {
 ```
 ### 1. Variables:
 -   `file_count` : numeric variable, the default value is set to 3. Represents the number of files to be created.
--   `file_name` : string variable, the default value is set to "teszt001". Represents the base name for the files.
+-   `file_name` : string variable, the default value is set to "_teszt001_". Represents the base name for the files.
 
 ### 2. Locals:
 -   `file_content_template` : string local variable, that is used to generate the content of the created files with "This is file number %d." where `%d` is a placeholder for a numeric value.
