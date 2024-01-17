@@ -39,7 +39,7 @@ resource "local_file" "count_file_1" {
 -   `file_name` : string variable, the default value is set to "_teszt001_". Represents the base name for the files.
 
 ### 2. Locals:
--   `file_content_template` : string local variable, that is used to generate the content of the created files with "This is file number %d." where `%d` is a placeholder for a numeric value.
+-   `file_content_template` : string local variable, that is used to generate the content of the created files with "_This is file number %d._" where `%d` is a placeholder for a numeric value.
 
 ### 3. Resources:
 -   `"local_file" "first_file_1"` : Defines a local file resource named "first_file_1".
