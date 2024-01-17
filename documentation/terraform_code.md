@@ -44,7 +44,7 @@ resource "local_file" "count_file_1" {
 ### 3. Resources:
 -   `"local_file" "first_file_1"` : Defines a local file resource named "_first_file_1_".
     
-    -   **`content = "AtomAntik"` : sets the content of the file as "AtomAntik".**
+    -   **`content = "AtomAntik"` : sets the content of the file as "_AtomAntik_".**
     -   **`filename = "../first_file_1.txt""` : specifies the path to the file that will be created (if missing parent directories will be created). If the file already exists, it will be          overridden with the given content.**
       
 -   `"local_file" "count_file_1"` : Defines a local file resource named "first_file_1".
